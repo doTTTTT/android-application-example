@@ -1,3 +1,6 @@
 [submodule "android-network-loading"]
 	path = android-network-loading
 	url = git@github.com:doTTTTT/android-network-loading.git
+[submodule "android-custom-menu"]
+	path = android-custom-menu
+	url = git@github.com:doTTTTT/android-custom-menu.git

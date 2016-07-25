@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-custom-menu.iml" filepath="$PROJECT_DIR$/android-custom-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-application-example.iml" filepath="$PROJECT_DIR$/android-application-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/custom-menu/custom-menu.iml" filepath="$PROJECT_DIR$/custom-menu/custom-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-custom-menu/custom-menu/custom-menu.iml" filepath="$PROJECT_DIR$/android-custom-menu/custom-menu/custom-menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-network-loading/network-loading/network-loading.iml" filepath="$PROJECT_DIR$/android-network-loading/network-loading/network-loading.iml" />
     </modules>
   </component>
